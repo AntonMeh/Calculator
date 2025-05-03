@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\calculatorr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculatorr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\commands\\numkeycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\commands\\numkeycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\commands\\equalscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\commands\\equalscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\commands\\commacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\commands\\commacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\commands\\backspacecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\commands\\backspacecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\commands\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\commands\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B343A40-F7FB-4BB0-9F0B-2351A3E8ECC7}|Calculator\\Calculator.csproj|c:\\users\\ameh0\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\c#\\2 \u043A\u0443\u0440\u0441\\sem 2\\calculator\\calculator\\calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,44 +66,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.g.cs",
-              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "RelativeDocumentMoniker": "Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "RelativeToolTip": "Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAWwEAAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ControlPanel.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\ControlPanel.cs",
+              "RelativeDocumentMoniker": "Calculator\\ControlPanel.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\ControlPanel.cs",
+              "RelativeToolTip": "Calculator\\ControlPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T16:11:41.645Z",
+              "WhenOpened": "2025-05-03T19:37:20.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Calculator.cs",
-              "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
-              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Calculator.cs",
-              "RelativeToolTip": "Calculator\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "EqualsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\EqualsCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\EqualsCommand.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\EqualsCommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\EqualsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T16:11:01.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T19:07:04.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\CommaCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\CommaCommand.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\CommaCommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\CommaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:04:05.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackSpaceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\BackSpaceCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\BackSpaceCommand.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\BackSpaceCommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\BackSpaceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:58:21.989Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\App.xaml",
-              "RelativeDocumentMoniker": "Calculator\\App.xaml",
-              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\App.xaml",
-              "RelativeToolTip": "Calculator\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-21T20:23:53.244Z",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Calculator\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:02:43.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumKeyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\NumKeyCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\NumKeyCommand.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\NumKeyCommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\NumKeyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:40:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Interfaces\\ICommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Interfaces\\ICommand.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Interfaces\\ICommand.cs",
+              "RelativeToolTip": "Calculator\\Interfaces\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:56:47.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.csproj",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Calculator.csproj",
+              "RelativeToolTip": "Calculator\\Calculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T18:54:33.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculatorr.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Calculatorr.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calculatorr.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Calculatorr.cs",
+              "RelativeToolTip": "Calculator\\Calculatorr.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:17:06.519Z",
               "EditorCaption": ""
             },
             {
@@ -84,16 +195,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Calculator\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Calculator\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "ClearCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\ClearCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\Commands\\ClearCommand.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\Commands\\ClearCommand.cs",
+              "RelativeToolTip": "Calculator\\Commands\\ClearCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:02:43.128Z",
+              "WhenOpened": "2025-05-03T19:11:11.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Calculator\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\AssemblyInfo.cs",
+              "RelativeToolTip": "Calculator\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:44:03.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\App.xaml",
+              "RelativeDocumentMoniker": "Calculator\\App.xaml",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\App.xaml",
+              "RelativeToolTip": "Calculator\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T20:23:53.244Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "C:\\Users\\ameh0\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043A\u0443\u043F\u0441\u0438\\C#\\2 \u043A\u0443\u0440\u0441\\Sem 2\\Calculator\\Calculator\\Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "Calculator\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:11:41.645Z"
             }
           ]
         }

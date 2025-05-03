@@ -1,6 +1,8 @@
-﻿using System.Windows;
+﻿using CalculatorTask;
+using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
+using Calculator.Commands;
 
 namespace Calculator
 {
@@ -16,7 +18,8 @@ namespace Calculator
         readonly Button power = new Button() { Content = "xⁿ", Visibility = Visibility.Collapsed };
         readonly Button ln = new Button() { Content = "ln", Visibility = Visibility.Collapsed };
 
-        readonly static Calculator calculator = new Calculator();
+        readonly static Calculatorr calculator = new Calculatorr();
+        readonly ControlPanel controlPanel = new ControlPanel();
 
         public MainWindow()
         {
@@ -74,10 +77,12 @@ namespace Calculator
 
         private void Numpad_Click(object sender, RoutedEventArgs e)
         {
-
+            controlPanel.SetCommand(new NumKeyCommand(calculator, (sender as Button)!.Content.ToString()!));
+            controlPanel.RunCommand();
         }
         private void Comma_Click(object sender, RoutedEventArgs e)
         {
+
         }
         private void Backspace_Click(object sender, RoutedEventArgs e)
         {

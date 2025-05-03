@@ -3,7 +3,7 @@ using System.Windows;
 
 namespace Calculator
 {
-    class Calculator 
+    class Calculatorr : INotifyPropertyChanged
     {
         private string text = "";
         private string waitingText = "";
@@ -16,6 +16,7 @@ namespace Calculator
                 text = value;
                 if (text.Length > 17) text = text[..17];
                 text = text.StartsWith("00") ? "0" : text.StartsWith("-00") ? "-0" : text; // prevent two or more zeros
+                OnPropertyChanged(nameof(Text)); 
             }
         }
         public string WaitingText
@@ -26,10 +27,18 @@ namespace Calculator
                 waitingText = value;
             }
         }
+        public void OnPropertyChanged(string prop)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(prop));
+        }
 
+        public event PropertyChangedEventHandler? PropertyChanged;
         public void PressNumKey(string content)
         {
+            if (Text == "π" || Text == "e") return; 
 
+            if (content == "π" || content == "e") Text = content; 
+            else Text += content; 
         }
         public void PressComma()
         {
