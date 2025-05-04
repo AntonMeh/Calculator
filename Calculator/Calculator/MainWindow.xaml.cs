@@ -3,6 +3,8 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 using Calculator.Commands;
+using System.Data.Common;
+using System.ComponentModel;
 
 namespace Calculator
 {
@@ -21,6 +23,12 @@ namespace Calculator
         readonly static Calculatorr calculator = new Calculatorr();
         readonly ControlPanel controlPanel = new ControlPanel();
 
+        readonly BackSpaceCommand backSpaceCommand = new BackSpaceCommand(calculator);
+        readonly CommaCommand commaCommand = new CommaCommand(calculator);
+        readonly ClearCommand clearCommand = new ClearCommand(calculator);
+        readonly EqualsCommand equalsCommand = new EqualsCommand(calculator);
+        readonly LnCommand lnCommand = new LnCommand(calculator);
+        readonly SqrtCommand sqrtCommand = new SqrtCommand(calculator);
         public MainWindow()
         {
             InitializeComponent();
@@ -82,25 +90,38 @@ namespace Calculator
         }
         private void Comma_Click(object sender, RoutedEventArgs e)
         {
-
+            controlPanel.SetCommand(commaCommand);
+            controlPanel.RunCommand();
         }
         private void Backspace_Click(object sender, RoutedEventArgs e)
         {
+            controlPanel.SetCommand(backSpaceCommand);
+            controlPanel.RunCommand();
         }
         private void Clear_Click(object sender, RoutedEventArgs e)
         {
+            controlPanel.SetCommand(clearCommand);
+            controlPanel.RunCommand();
         }
         private void Operation_Click(object sender, RoutedEventArgs e)
         {
+            controlPanel.SetCommand(new OperationCommand(calculator, (sender as Button)!.Content.ToString()!));
+            controlPanel.RunCommand();
         }
         private void Equals_Click(object sender, RoutedEventArgs e)
         {
+            controlPanel.SetCommand(equalsCommand);
+            controlPanel.RunCommand();
         }
         private void Sqrt_Click(object sender, RoutedEventArgs e)
         {
+            controlPanel.SetCommand(sqrtCommand);
+            controlPanel.RunCommand();
         }
         private void Ln_Click(object sender, RoutedEventArgs e)
         {
+            controlPanel.SetCommand(lnCommand);
+            controlPanel.RunCommand();
         }
         private void Undo(object sender, RoutedEventArgs e)
         {
@@ -111,7 +132,105 @@ namespace Calculator
 
         private void Window_KeyDown(object sender, KeyEventArgs e)
         {
-           
+            if (Keyboard.IsKeyDown(Key.LeftCtrl) && e.Key == Key.Z)
+            {
+                Undo(null!, null!);
+            }
+            else if (Keyboard.IsKeyDown(Key.LeftCtrl) && e.Key == Key.Y)
+            {
+                Redo(null!, null!);
+            }
+            else if (Keyboard.IsKeyDown(Key.LeftShift) && e.Key == Key.D6)
+            {
+                controlPanel.SetCommand(new OperationCommand(calculator, "xⁿ"));
+                controlPanel.RunCommand();
+            }
+            else if (Keyboard.IsKeyDown(Key.LeftShift) && e.Key == Key.D8)
+            {
+                controlPanel.SetCommand(new OperationCommand(calculator, "×"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.OemPlus)
+            {
+                controlPanel.SetCommand(new OperationCommand(calculator, "+"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.OemMinus)
+            {
+                controlPanel.SetCommand(new OperationCommand(calculator, "-"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.OemQuestion)
+            {
+                controlPanel.SetCommand(new OperationCommand(calculator, "÷"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.Delete)
+            {
+                Clear_Click(null!, null!);
+            }
+            else if (e.Key == Key.Back)
+            {
+                Backspace_Click(null!, null!);
+            }
+            else if (e.Key == Key.OemComma)
+            {
+                Comma_Click(null!, null!);
+            }
+            else if (e.Key == Key.Enter)
+            {
+                Equals_Click(null!, null!);
+            }
+            else if (e.Key == Key.D1)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "1"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.D2)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "2"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.D3)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "3"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.D4)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "4"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.D5)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "5"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.D6)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "6"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.D7)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "7"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.D8)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "8"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.D9)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "9"));
+                controlPanel.RunCommand();
+            }
+            else if (e.Key == Key.D0)
+            {
+                controlPanel.SetCommand(new NumKeyCommand(calculator, "0"));
+                controlPanel.RunCommand();
+            }
         }
     }
 }
