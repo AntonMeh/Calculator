@@ -15,8 +15,8 @@ namespace Calculator
             {
                 text = value;
                 if (text.Length > 17) text = text[..17];
-                text = text.StartsWith("00") ? "0" : text.StartsWith("-00") ? "-0" : text; // prevent two or more zeros
-                OnPropertyChanged(nameof(Text)); 
+                text = text.StartsWith("00") ? "0" : text.StartsWith("-00") ? "-0" : text;
+                OnPropertyChanged("Text");
             }
         }
         public string WaitingText
@@ -25,6 +25,7 @@ namespace Calculator
             set
             {
                 waitingText = value;
+                OnPropertyChanged("WaitingText");
             }
         }
         public void OnPropertyChanged(string prop)
@@ -33,9 +34,10 @@ namespace Calculator
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;
+
         public void PressNumKey(string content)
         {
-            if (Text == "π" || Text == "e") return; 
+            if (Text == "π" || Text == "e") return;
 
             if (content == "π" || content == "e") Text = content; 
             else Text += content; 
@@ -70,9 +72,9 @@ namespace Calculator
         }
         public void PressEquals()
         {
-            if (IsEmptyWaitingText() || IsEmptyText() || WaitingText[^1] == '=' || Text == "-") return; 
+            if (IsEmptyWaitingText() || IsEmptyText() || WaitingText[^1] == '=' || Text == "-") return;
 
-            double num1 = WaitingText[..^1] == "π" ? Math.PI : WaitingText[..^1] == "e" ? Math.E : Convert.ToDouble(WaitingText[..^1]); 
+            double num1 = WaitingText[..^1] == "π" ? Math.PI : WaitingText[..^1] == "e" ? Math.E : Convert.ToDouble(WaitingText[..^1]);
             double num2 = ConvertPIorExp(); 
 
             double result = 0;

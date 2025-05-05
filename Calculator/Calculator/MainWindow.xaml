@@ -25,8 +25,8 @@
     </Window.Resources>
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-            <GradientStop Color="#FF34455B" Offset="0.54"/>
-            <GradientStop Color="White" Offset="0"/>
+            <GradientStop Color="#FF34455B" Offset="0.375"/>
+            <GradientStop Color="#FF74B1FF" Offset="0.302"/>
         </LinearGradientBrush>
     </Window.Background>
 
@@ -84,7 +84,7 @@
         <!--waiting for operation display-->
         <TextBlock Grid.Column="0" Grid.ColumnSpan="5"
                    Margin="10,60,10,50"
-                   Foreground="DimGray"
+                   Foreground="Black"
                    FontSize="25"
                    x:Name="waitingDisplay"
                    Background="Transparent"

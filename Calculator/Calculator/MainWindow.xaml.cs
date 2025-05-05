@@ -125,9 +125,11 @@ namespace Calculator
         }
         private void Undo(object sender, RoutedEventArgs e)
         {
+            controlPanel.Undo();
         }
         private void Redo(object sender, RoutedEventArgs e)
         {
+            controlPanel.Redo();
         }
 
         private void Window_KeyDown(object sender, KeyEventArgs e)

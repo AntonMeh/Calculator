@@ -13,7 +13,7 @@ namespace Calculator.Commands
 
         public void UnExecute() => calculator.PressBackspace();
 
-        public CommaCommand(Calculatorr Calculator) => this.calculator = Calculator;
+        public CommaCommand(Calculatorr calculator) => this.calculator = calculator;
         
     }
 }
